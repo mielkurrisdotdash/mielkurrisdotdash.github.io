@@ -1,0 +1,15 @@
+{
+  "@context": {
+     "attends": {
+        "@id":"http://sparql.cwrc.ca/ontologies/cwrc#attends",
+        "@type": "@id"
+     },
+     "name": {
+        "@id" : "http://xmlns.com/foaf/0.1/name",
+        "@language": "en"
+      }
+  },
+  "@id": "https://mielkurrisdotdash.github.io/me.jsonld",
+  "name": "Miel Kurris",
+  "attends" : "https://data.knows.idlab.ugent.be/event/solid-linked-data-workshops-2022-01/#"
+}
