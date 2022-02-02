@@ -1,7 +1,7 @@
 {
   "@context": {
-     "attends": {
-        "@id":"http://sparql.cwrc.ca/ontologies/cwrc#attends",
+     "attendee": {
+        "@id":"http://schema.org/attendee",
         "@type": "@id"
      },
      "name": {
